@@ -10,15 +10,15 @@
     height: 100%;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     color: white;
 }
 
 .navbar a {
     color:white;
     text-decoration: none;
-    margin: 10px;
-    font-size: 25px;
+    margin: 20px;
+    font-size: 20px;
 }
 
 .toggleButton{

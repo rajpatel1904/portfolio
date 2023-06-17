@@ -18,18 +18,18 @@ import '../styles/Home.css'
       </div>
      </div>
         <div className='skills'>
-            <h2>Skills</h2>
+            <h1>Skills</h1>
             <ol className='list'>
                 <li className='item'>
-                    <h3> Programming Languages:</h3>
+                    <h2> Programming Languages:</h2>
                     <span>Python, R, C, Java, C++, HTML, CSS, JavaScript, SQL</span>
-                    <h3>Software/framework/libraries:</h3>
+                    <h2>Software/framework/libraries:</h2>
                     <span>NumPy, Pandas, Matplotlib, SciPy, React.js, Node.js</span>
-                    <h3> Database:</h3>
+                    <h2> Database:</h2>
                     <span>MySQL, MongoDB</span>
-                    <h3>Tools:</h3>
+                    <h2>Tools:</h2>
                     <span>Git, VS, VS Code</span>
-                    <h3>Soft Skills:</h3>
+                    <h2>Soft Skills:</h2>
                     <span> Critical Thinking, Leadership, Team Management, Communication</span>
 
 
